@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zdc19/Desktop/zRSA/zrsa.cpp
+algorithm
+-
+cmath
+-
+ctime
+-
+cstdlib
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+
